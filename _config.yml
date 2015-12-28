@@ -1,0 +1,28 @@
+name: Lenscape
+favicon: null
+layout_spectrum: 0.6024933278094977
+typography_spectrum: 0.5272406025324017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e6eae9'
+    - '#a8b2b3'
+    - '#1f1f1d'
+    - '#8c908f'
+    - '#504f4b'
+  brandStrength: 0.375
+  lightness: 0.8583471856545657
+  saturation: 0.5021082411985844
+  rhythmicContrast: 0.21702495077624917
+purpose: []
